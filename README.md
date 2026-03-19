@@ -188,7 +188,7 @@ I enjoy **building AI tools that automate real-world problems and reduce manual 
 
 ---
 
-⭐ *Always exploring Artificial Intelligence, automation systems, and building impactful technology.*## Hi there 👋
+⭐ *Always exploring Artificial Intelligence, automation systems, and building impactful technology.*
 
 <!--
 **kartik691004/kartik691004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
